@@ -1,9 +1,11 @@
 .home {
-  width: 75%;
+  
+  width: 100%;
   margin: 0 auto;
   display: grid;
   margin-top: 10%;
   grid-template-columns: 0.5fr 3fr;
+  
   &-left {
    display: grid;
    place-items: center;
@@ -28,7 +30,6 @@
    
    }
    &-social {
-    margin-top: 100px;
    display: grid;
    row-gap: 20px;
    a {
@@ -51,6 +52,7 @@
   // Image
    img {
     width: 220px;
+   
    }
 
   //  Title
@@ -58,7 +60,7 @@
     font-size: $biggest-font-size;
     color: $first-color;
     position: absolute;
-    top: -65px;
+    top: -30px;
     display: flex;
     column-gap: 7px;
     justify-self: center;
@@ -66,6 +68,29 @@
     span:nth-child(2) {
       z-index: -1;
     }
+  }
+
+  // Tooltip
+
+  &-tooltip {
+    position: absolute;
+    top: 5px;
+    right: 24px;
+
+    img {
+     width: 100px;
+    }
+
+    &-text {
+      position: absolute;
+      background-color: $gradient-color;
+      color: white;
+      padding: 6px 12px;
+      border-radius: 64px;
+      transform: translate(-4px, -20px);
+      font-weight: $font-semi-bold;
+    }
+
   }
   }
 }

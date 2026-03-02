@@ -1,0 +1,25 @@
+{
+  "name": "jbl-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+  "sass": "sass --watch styles/style.scss styles/style.css",
+  "sass-once": "sass styles/style.scss styles/style.css"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasanKoparan/jbl-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/HasanKoparan/jbl-clone/issues"
+  },
+  "homepage": "https://github.com/HasanKoparan/jbl-clone#readme",
+  "dependencies": {
+    "sass": "^1.97.3"
+  }
+}
