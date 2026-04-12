@@ -1,11 +1,67 @@
-# JBL Clone
+# 🎧 JBL Clone
 
-A responsive JBL website clone built with HTML, SCSS, and JavaScript.
+A pixel-perfect clone of the JBL headphones product website, built with HTML5, SCSS, and JavaScript. Features a modern dark UI, product color selector, model specifications, and a fully responsive layout.
 
-## Technologies Used
-- HTML5
-- SCSS
-- JavaScript
+🔗 **[Live Demo](https://hasankoparan.github.io/jbl-clone)**
 
-## Preview
-<img width="1761" height="1019" alt="Ekran Resmi 2026-03-03 00 45 30" src="https://github.com/user-attachments/assets/03e295bb-0bb4-4c5d-989c-50bda0e07de0" />
+-----
+
+## ✨ Features
+
+- 🎨 Sleek dark-themed hero section with product showcase
+- 🎧 Interactive color selector (Black, White, Red, Teal)
+- 📐 Model specifications section with tooltip annotations
+- 🤝 Partner logos section (Apple, Spotify, Amazon, YouTube)
+- 📬 Newsletter subscription form in footer
+- 🔗 Multi-column footer with product links and support
+- 📱 Fully responsive layout
+- ✨ Smooth hover effects and transitions
+
+-----
+
+## 🛠️ Built With
+
+- **HTML5** — Semantic structure
+- **SCSS (Sass)** — Modular stylesheets with variables and nesting
+- **JavaScript** — Interactive color switcher and UI effects
+- **Node.js / npm** — Sass compilation via package.json
+
+-----
+
+## 📁 Project Structure
+
+```
+jbl-clone/
+├── index.html          # Main page markup
+├── main.js             # JavaScript interactions
+├── styles/             # SCSS partials and compiled CSS
+├── images/             # Product and logo assets
+├── package.json        # npm scripts for Sass watch
+└── package-lock.json
+```
+
+-----
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/HasanKoparan/jbl-clone.git
+cd jbl-clone
+npm install
+npm run sass
+```
+
+Then open `index.html` with Live Server in VS Code.
+
+-----
+
+## 👨‍💻 Author
+
+**Hasan Koparan**
+
+- GitHub: [@HasanKoparan](https://github.com/HasanKoparan)
+- LinkedIn: [linkedin.com/in/hasankoparan](https://linkedin.com/in/hasankoparan)
+
+-----
+
+> Built as part of a fullstack development program — practicing real-world UI cloning with modular SCSS and interactive JavaScript. 💪
