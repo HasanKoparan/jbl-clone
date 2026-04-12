@@ -3,7 +3,7 @@
 A pixel-perfect clone of the JBL headphones product website, built with HTML5, SCSS, and JavaScript. Features a modern dark UI, product color selector, model specifications, and a fully responsive layout.
 
 🔗 **[Live Demo](https://hasankoparan.github.io/jbl-clone)**
-
+https://hasankoparan.github.io/jbl-clone/
 -----
 
 ## ✨ Features
