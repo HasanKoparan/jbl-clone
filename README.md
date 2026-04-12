@@ -17,6 +17,15 @@ A pixel-perfect clone of the JBL headphones product website, built with HTML5, S
 - 📱 Fully responsive layout
 - ✨ Smooth hover effects and transitions
 
+<img width="600" height="350" alt="Ekran Resmi 2026-04-12 22 30 05" src="https://github.com/user-attachments/assets/221a81cb-1a28-481c-8ad5-bebd0648e02a" />
+<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 29 42" src="https://github.com/user-attachments/assets/ab022bb4-a5bf-40ed-b03b-220712bf2bd3" />
+<img width="600" height="348" alt="Ekran Resmi 2026-04-12 22 29 23" src="https://github.com/user-attachments/assets/0990e08d-0a6e-4b7b-809d-26d496dd1724" />
+<img width="600" height="345" alt="Ekran Resmi 2026-04-12 22 28 20" src="https://github.com/user-attachments/assets/32ec1bcc-86ae-44a3-8eb6-f156f60c5408" />
+
+
+
+
+
 -----
 
 ## 🛠️ Built With
